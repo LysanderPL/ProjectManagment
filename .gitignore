@@ -1,3 +1,10 @@
 .idea
 /ProjectManagment/modules/admin/templates/.gitkeep
 /templates/resources/.gitkeep
+/ProjectManagment/__pycache__
+/ProjectManagment/modules/__init__.pyc
+/ProjectManagment/modules/__pycache__
+/ProjectManagment/modules/admin/__pycache__
+/ProjectManagment/modules/admin/__init__.pyc
+*.pyc
+*/__pycache__
